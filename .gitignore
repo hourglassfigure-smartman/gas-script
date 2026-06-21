@@ -1,0 +1,11 @@
+# clasp / 認証情報
+.clasp.json
+.clasprc.json
+
+# 依存・ログ
+node_modules/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
